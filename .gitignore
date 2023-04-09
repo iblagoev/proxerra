@@ -3,3 +3,4 @@ terraform.tfstate
 .terraform.lock.hcl
 terraform-plugin-proxmox.log
 terraform.tfstate.backup
+.envrc
