@@ -4,3 +4,5 @@ terraform.tfstate
 terraform-plugin-proxmox.log
 terraform.tfstate.backup
 .envrc
+.DS_Store*
+.terraform
